@@ -4,5 +4,3 @@ pydantic
 httpx
 python-dotenv
 python-multipart
-groq
-edge-tts

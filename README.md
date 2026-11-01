@@ -33,11 +33,6 @@ CHATBOT/
   README.md
 ```
 
-## Run locally
-
-```bash
-cd /Users/rajanand/Documents/os_Shivam/OS_Project/CHATBOT
-/private/tmp/ai_project_venv/bin/python -m uvicorn backend.main:app --host 127.0.0.1 --port 8000
 ```
 
 Then open:
